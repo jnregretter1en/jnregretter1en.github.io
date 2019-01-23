@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+     <head>
+           <meta charset="utf-8">
+           <title>Аниме круто</title>
+     </head>
+     <body>
+          <center>
+           <h1>Атра круто</h1>
+           <h3>очень круто!<h3>
+           <img width="50%" src="fenek.jpg" alt="Атра почему ты ненавидишь фенеков?">
+           <br>
+           <a href="https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D0%BD">Фен в википедии</a>
+           <br>
+           <a href="https://jnregretter1en.github.io/88/">Я такая смешная</a>
+          </center>
+         <ul>
+         <li>Рас рас рас</li>
+         <li><b>это</b></li>
+         <li><i>хардбасс.</i></li>
+         </ul>
+     </body>
+</html>
